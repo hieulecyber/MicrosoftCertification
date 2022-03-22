@@ -4,8 +4,11 @@ Truy cập trang web https://events.microsoft.com/, tìm kiếm từ khóa **Fun
 1. Microsoft Power Platform Virtual Training Day: Fundamentals (PL-900)
 2. Microsoft Azure Virtual Training Day: Data Fundamentals (DP-900)
 3. Microsoft Azure Virtual Training Day: Fundamentals (AZ-900)
-4. Microsoft Security Virtual Training Day: Security, Compliance and Identity (SC-900)
-5. Microsoft Dynamics 365 Virtual Training Day: Fundamentals (CRM)
+4. Microsoft Azure Virtual Training Day: AI Fundamentals (AI-900)
+5. Microsoft Security Virtual Training Day: Security, Compliance and Identity (SC-900)
+6. Microsoft Dynamics 365 Virtual Training Day: Fundamentals (CRM)
+
+![FundamentalsCourse_01](https://user-images.githubusercontent.com/102139186/159437531-e75c6b9c-8fc2-434a-8eea-455c7c598971.png)
 
 Sau khi điền một số thông tin cơ bản, Microsoft sẽ gửi email thông báo về thời gian của khóa học, và bạn có thể thêm vào phần lịch. Cách thời gian học 1-2 ngày, Microsoft sẽ gửi một email nhắc lại kèm đường link truy cập. Đến thời điểm khóa học mở, bạn truy cập vào đường link đã gửi trước đó, điền địa chỉ email đã đăng ký và chọn OK để bắt đầu khóa học. 
 
