@@ -10,7 +10,11 @@ Truy cập trang web https://events.microsoft.com/, tìm kiếm từ khóa **Fun
 
 ![FundamentalsCourse_01](https://user-images.githubusercontent.com/102139186/159437531-e75c6b9c-8fc2-434a-8eea-455c7c598971.png)
 
-Sau khi điền một số thông tin cơ bản, Microsoft sẽ gửi email thông báo về thời gian của khóa học, và bạn có thể thêm vào phần lịch. Cách thời gian học 1-2 ngày, Microsoft sẽ gửi một email nhắc lại kèm đường link truy cập. Đến thời điểm khóa học mở, bạn truy cập vào đường link đã gửi trước đó, điền địa chỉ email đã đăng ký và chọn OK để bắt đầu khóa học. 
+Điền một số thông tin cơ bản để đăng ký khóa học 
+![FundamentalsCourse_02](https://user-images.githubusercontent.com/102139186/159438492-69d070b1-d90b-425f-86a3-4aecce2da5fe.png)
+
+
+Microsoft sẽ gửi email thông báo về thời gian của khóa học, và bạn có thể thêm vào phần lịch. Cách thời gian học 1-2 ngày, Microsoft sẽ gửi một email nhắc lại kèm đường link truy cập. Đến thời điểm khóa học mở, bạn truy cập vào đường link đã gửi trước đó, điền địa chỉ email đã đăng ký và chọn OK để bắt đầu khóa học. 
 
 Sau khi hoàn thành khóa học từ 1-2 ngày, Microsoft sẽ gửi email cám ơn và voucher thi miễn phí của Microsoft sẽ được tích hợp trực tiếp vào email đã đăng ký. 
 
