@@ -5,8 +5,8 @@ Truy cập trang web https://events.microsoft.com/, tìm kiếm từ khóa **Fun
 2. Microsoft Azure Virtual Training Day: Data Fundamentals (DP-900)
 3. Microsoft Azure Virtual Training Day: Fundamentals (AZ-900)
 4. Microsoft Azure Virtual Training Day: AI Fundamentals (AI-900)
-5. Microsoft Security Virtual Training Day: Security, Compliance and Identity (SC-900)
-6. Microsoft Dynamics 365 Virtual Training Day: Fundamentals (CRM)
+5. Microsoft Security Virtual Training Day: Security, Compliance and Identity (SC-900): https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900
+6. Microsoft Dynamics 365 Virtual Training Day: Fundamentals (CRM): https://docs.microsoft.com/vi-vn/learn/certifications/exams/mb-910
 
 ![FundamentalsCourse_01](https://user-images.githubusercontent.com/102139186/159437531-e75c6b9c-8fc2-434a-8eea-455c7c598971.png)
 
