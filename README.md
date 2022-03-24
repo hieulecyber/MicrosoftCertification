@@ -1,10 +1,10 @@
 # Hướng dẫn đăng ký học và thi các chứng chỉ Azure Fundamentals miễn phí 
 
 Truy cập trang web https://events.microsoft.com/, tìm kiếm từ khóa **Fundamentals** trong phần **Search by keyword**. Các khóa học dưới đây được cấp voucher thi miễn phí sau khi hoàn thành.
-1. Microsoft Power Platform Virtual Training Day: Fundamentals (PL-900)
-2. Microsoft Azure Virtual Training Day: Data Fundamentals (DP-900)
-3. Microsoft Azure Virtual Training Day: Fundamentals (AZ-900)
-4. Microsoft Azure Virtual Training Day: AI Fundamentals (AI-900)
+1. Microsoft Power Platform Virtual Training Day: Fundamentals (PL-900): https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900
+2. Microsoft Azure Virtual Training Day: Data Fundamentals (DP-900): https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900
+3. Microsoft Azure Virtual Training Day: Fundamentals (AZ-900): https://docs.microsoft.com/en-us/learn/certifications/exams/az-900
+4. Microsoft Azure Virtual Training Day: AI Fundamentals (AI-900): https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900
 5. Microsoft Security Virtual Training Day: Security, Compliance and Identity (SC-900): https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900
 6. Microsoft Dynamics 365 Virtual Training Day: Fundamentals (CRM): https://docs.microsoft.com/vi-vn/learn/certifications/exams/mb-910
 
