@@ -27,5 +27,5 @@ Cách thời gian học 1-2 ngày, Microsoft sẽ gửi thêm một email nhắc
 Các khóa học sẽ được trình bày bằng tiếng Anh có phụ đề từ các chuyên gia của Microsoft. Tại đây bạn có thể tải về các tài liệu và video clip (khi sử dụng các phần mềm hỗ trợ tải như Internet Download Manager).  
 
 Sau khi hoàn thành khóa học từ 1-2 ngày, Microsoft sẽ gửi email cám ơn và voucher thi miễn phí sẽ được tích hợp trực tiếp vào email đã đăng ký. 
+![image](https://user-images.githubusercontent.com/102139186/160320926-b3c1fd0e-a56f-43f3-a370-924670c2168e.png)
 
-**Cách đăng ký tài khoản thi trên PersonVue**
