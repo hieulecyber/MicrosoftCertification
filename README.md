@@ -11,8 +11,10 @@ Trên Microsoft Learn, các chứng chỉ của Microsoft đều có phần nộ
 
 
 **2. Tạo tài khoản thi trên Pearson Vue/Certiport**
-Ở Việt Nam, để thi các chứng chỉ quốc tế, người dự thi có thể thi tại nhà (online) hoặc đến các trung tâm ủy quyền của Microsoft như Pearson Vue, Certiport. Người dự thi cần đăng ký một profile thi cho các chứng chỉ của Microsoft (minh họa trên Person Vue). 
-Trên giao diện Microsoft Learn, chọn Certification > Overview > Go to Learning Dashboard. 
+
+Ở Việt Nam, để thi các chứng chỉ quốc tế, người dự thi có thể thi tại nhà (online) hoặc đến các trung tâm ủy quyền của Microsoft như Pearson Vue, Certiport. Người dự thi cần đăng ký một profile thi cho các chứng chỉ của Microsoft (minh họa trên Person Vue). Profile này sẽ được sử dụng chung cho việc thi tất cả các chứng chỉ khác của Microsoft sau này. 
+
+Để tạo profile thi, trên giao diện Microsoft Learn, chọn Certification > Overview > Go to Learning Dashboard. 
 
 ![image](https://user-images.githubusercontent.com/102139186/160832614-78b58ac8-8c3a-4655-9e32-f4eaacd46561.png)
 
