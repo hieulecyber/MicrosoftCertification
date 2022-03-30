@@ -30,6 +30,8 @@ Trên Microsoft Learn, các chứng chỉ của Microsoft đều có phần nộ
 
 
 **3. Nhận voucher miễn phí thi các chứng nhận của Microsoft**
+Hiện tại, Microsoft cho phép thi miễn phí một số môn thi Fundamentals. Đây là các môn mình thích nhất vì đó là nền tảng về đám mây cho việc học tập sâu hơn sau này. Các khóa này phù hợp cho mọi đối tượng như salas, quản trị viên, kỹ sư giải pháp, devops,...Để có voucher miễn phí, chỉ cần đăng ký tham gia học 2 session cơ bản. 
+
 Truy cập trang web https://events.microsoft.com/, tìm kiếm từ khóa **Fundamentals** trong phần **Search by keyword**. Các khóa học dưới đây được cấp voucher thi miễn phí sau khi hoàn thành.
 1. Microsoft Power Platform Virtual Training Day: Fundamentals (PL-900): https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900
 2. Microsoft Azure Virtual Training Day: Data Fundamentals (DP-900): https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900
