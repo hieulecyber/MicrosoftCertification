@@ -1,7 +1,13 @@
 # Hướng dẫn đăng ký học và thi các chứng chỉ Azure Fundamentals miễn phí 
 
 **1. Tạo tài khoản trên Microsoft Learn để học các nội dung miễn phí**
-Truy cập https://docs.microsoft.com/en-us/learn/, đăng nhập bằng tài khoản email Microsoft (hotmail.com, outlook.com) hoặc tạo mới tài khoản nếu chưa có. Lưu ý tài khoản email này sẽ được dùng để thi các chứng chỉ của Microsoft. Các chứng chỉ của Microsoft đều có phần nội dung miễn phí để học tập, thực hành lab (tùy khóa học) giúp chuẩn bị kiến thức cho kỳ thi quốc tế. 
+
+Truy cập https://docs.microsoft.com/en-us/learn/, đăng nhập bằng tài khoản email Microsoft (hotmail.com, outlook.com) hoặc tạo mới tài khoản nếu chưa có. Lưu ý tài khoản email này sẽ được dùng để thi các chứng chỉ của Microsoft. 
+Trên Microsoft Learn, các chứng chỉ của Microsoft đều có phần nội dung miễn phí để học tập, thực hành lab (tùy khóa học) giúp chuẩn bị kiến thức cho kỳ thi quốc tế. Hình minh họa cho chứng chỉ SC-900: Microsoft Security, Compliance, and Identity Fundamentals
+![image](https://user-images.githubusercontent.com/102139186/160832058-9492dc02-39d1-4214-9cf2-bc1611f25533.png)
+
+
+
 
 **2. Tạo tài khoản thi trên Pearson Vue/Certiport**
 Ở Việt Nam, để thi các chứng chỉ quốc tế, người dự thi có thể thi tại nhà (online) hoặc đến các trung tâm ủy quyền của Microsoft như Pearson Vue, Certiport. Người dự thi cần đăng ký một profile thi cho các chứng chỉ của Microsoft (minh họa trên Person Vue). 
