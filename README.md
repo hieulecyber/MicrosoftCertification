@@ -1,5 +1,12 @@
 # Hướng dẫn đăng ký học và thi các chứng chỉ Azure Fundamentals miễn phí 
 
+**1. Tạo tài khoản trên Microsoft Learn để học các nội dung miễn phí**
+Truy cập https://docs.microsoft.com/en-us/learn/, đăng nhập bằng tài khoản email Microsoft (hotmail.com, outlook.com) hoặc tạo mới tài khoản nếu chưa có. Lưu ý tài khoản email này sẽ được dùng để thi các chứng chỉ của Microsoft. Các chứng chỉ của Microsoft đều có phần nội dung miễn phí để học tập, thực hành lab (tùy khóa học) giúp chuẩn bị kiến thức cho kỳ thi quốc tế. 
+
+**2. Tạo tài khoản thi trên Pearson Vue/Certiport**
+Ở Việt Nam, để thi các chứng chỉ quốc tế, người dự thi có thể thi tại nhà (online) hoặc đến các trung tâm ủy quyền của Microsoft như Pearson Vue, Certiport. Người dự thi cần đăng ký một profile thi cho các chứng chỉ của Microsoft (minh họa trên Person Vue). 
+
+**3. Nhận voucher miễn phí thi các chứng nhận của Microsoft**
 Truy cập trang web https://events.microsoft.com/, tìm kiếm từ khóa **Fundamentals** trong phần **Search by keyword**. Các khóa học dưới đây được cấp voucher thi miễn phí sau khi hoàn thành.
 1. Microsoft Power Platform Virtual Training Day: Fundamentals (PL-900): https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900
 2. Microsoft Azure Virtual Training Day: Data Fundamentals (DP-900): https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900
