@@ -4,6 +4,7 @@
 
 Truy cập https://docs.microsoft.com/en-us/learn/, đăng nhập bằng tài khoản email Microsoft (hotmail.com, outlook.com) hoặc tạo mới tài khoản nếu chưa có. Lưu ý tài khoản email này sẽ được dùng để thi các chứng chỉ của Microsoft. 
 Trên Microsoft Learn, các chứng chỉ của Microsoft đều có phần nội dung miễn phí để học tập, thực hành lab (tùy khóa học) giúp chuẩn bị kiến thức cho kỳ thi quốc tế. Hình minh họa cho chứng chỉ SC-900: Microsoft Security, Compliance, and Identity Fundamentals
+
 ![image](https://user-images.githubusercontent.com/102139186/160832058-9492dc02-39d1-4214-9cf2-bc1611f25533.png)
 
 
