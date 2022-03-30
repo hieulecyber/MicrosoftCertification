@@ -44,7 +44,7 @@ Truy cập trang web https://events.microsoft.com/, tìm kiếm từ khóa **Fun
 ![FundamentalsCourse_01](https://user-images.githubusercontent.com/102139186/159437531-e75c6b9c-8fc2-434a-8eea-455c7c598971.png)
 
 
-Điền một số thông tin cơ bản để đăng ký khóa học
+Điền một số thông tin cơ bản để đăng ký khóa học. **Email này chính là email đã tạo tài khoản trên Pearson Vue trước đó.** 
 
 ![FundamentalsCourse_02](https://user-images.githubusercontent.com/102139186/159438492-69d070b1-d90b-425f-86a3-4aecce2da5fe.png)
 
