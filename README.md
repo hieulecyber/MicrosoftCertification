@@ -80,8 +80,8 @@ Chọn Next, ngôn ngữ dự thi (select exam language), đồng ý các điề
 
 ![image](https://user-images.githubusercontent.com/102139186/163978075-ee51ec67-f37d-4a5f-bca3-e46bd3922402.png)
 
+![image](https://user-images.githubusercontent.com/102139186/163979874-03bffc37-ad3c-45fc-8cd6-a63d9ff9f7e4.png)
 
-![image](https://user-images.githubusercontent.com/102139186/163979180-578ea87e-3b5e-4f3e-bed9-b530ff633f84.png)
 
 
 
