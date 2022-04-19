@@ -66,15 +66,15 @@ Sau khi hoàn thành khóa học từ 1-2 ngày, Microsoft sẽ gửi email cám
 **Sử dụng voucher miễn phí đăng ký dự thi miễn phí**
 Truy cập vào trang chính thức của môn thi ở mục 3 phía trên, chọn quốc gia Việt Nam và chọn Schedule with Pearson VUE. Đăng nhập bằng tài khoản Microsoft sẽ dùng để dự thi. Trong giao diện hiện ra chuyển qua thẻ Exam Discounts, nhấn vào mục 100% Microsoft Training day attendance, chọn Claim > Schedule Exam
 
-![image](https://user-images.githubusercontent.com/102139186/163977592-468b17a7-18c1-4183-8183-720fd24a5225.png)
-
-
 ![image](https://user-images.githubusercontent.com/102139186/163976847-877a6e61-eb6a-4b43-9538-6fc306ff2e2d.png)
+
+![image](https://user-images.githubusercontent.com/102139186/163977592-468b17a7-18c1-4183-8183-720fd24a5225.png)
 
 Chọn địa điểm dự thi: 
 - At a test center: Chọn một trung tâm dự thi
 - OnVUE online at my home or office: dự thi tại nhà
 - I have a Private Access Code: nếu có code thi đặc biệt có thể dùng hình thức này
+
 Trong 3 hình thức này, đơn giản nhất là đến trung tâm ủy quyền của Pearson VUE (mang theo CMND hoặc hộ chiếu). 
 Chọn Next, ngôn ngữ dự thi (select exam language), đồng ý các điều khoản (Agree to Microsoft policies), trung tâm thi gần nhà (Find a test center), thời gian thi (Find an appointment). Cuối cùng chọn Proceed to Checkout > Next > Submit Order. 
 
