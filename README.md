@@ -78,8 +78,11 @@ Chọn địa điểm dự thi:
 Trong 3 hình thức này, đơn giản nhất là đến trung tâm ủy quyền của Pearson VUE (mang theo CMND hoặc hộ chiếu). 
 Chọn Next, ngôn ngữ dự thi (select exam language), đồng ý các điều khoản (Agree to Microsoft policies), trung tâm thi gần nhà (Find a test center), thời gian thi (Find an appointment). Cuối cùng chọn Proceed to Checkout > Next > Submit Order. 
 
+![image](https://user-images.githubusercontent.com/102139186/163978075-ee51ec67-f37d-4a5f-bca3-e46bd3922402.png)
+
+
 ![image](https://user-images.githubusercontent.com/102139186/163979180-578ea87e-3b5e-4f3e-bed9-b530ff633f84.png)
 
 
-![image](https://user-images.githubusercontent.com/102139186/163978075-ee51ec67-f37d-4a5f-bca3-e46bd3922402.png)
+
 
