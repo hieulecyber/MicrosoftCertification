@@ -26,6 +26,6 @@ Tất cả các nội dung đã đăng ký học sẽ hiển thị trên giao di
 ![image](https://user-images.githubusercontent.com/102139186/167355660-6d5644a1-de3a-4294-8480-20e641c681d6.png)
 
 
-Sau khi hoàn thành Azure Cloud Week, Microsoft sẽ tiến hành gửi email cám ơn cùng voucher đến các địa chỉ email hợp lệ (email phải của đối tác, có tham gia đầy đủ các nội dung học tập,...)
+Sau khi hoàn thành Azure Cloud Week, Microsoft sẽ tiến hành gửi email cám ơn cùng voucher đến các địa chỉ email hợp lệ (email phải của đối tác, có tham gia đầy đủ các nội dung học tập,...) trước ngày **27/5/2022**. 
 
 Tất cả các video trong Azure Cloud Week đều được ghi âm lại (record) và cho phép những người tham gia Azure Cloud Week có thể theo dõi lại tất cả các chủ đề/chứng chỉ trong 30 ngày. Sau thời gian này, các nội dung sẽ không còn truy cập được nữa. 
