@@ -21,6 +21,11 @@ Và ứng với từng chủ đề/chứng chỉ đã chọn, nhấn vào nút *
 
 ![image](https://user-images.githubusercontent.com/102139186/167353367-c7c1cbbc-09a0-4ae1-9cc8-2b29fcdbcc7a.png)
 
+Tất cả các nội dung đã đăng ký học sẽ hiển thị trên giao diện chính trên thẻ **Conference**, chỉ cần nhấn vào nút Join để tham gia học tập. Cuối mỗi ngày, hoàn thành thêm khảo sát ngắn của Azure Cloud Week.
+
+![image](https://user-images.githubusercontent.com/102139186/167355660-6d5644a1-de3a-4294-8480-20e641c681d6.png)
+
+
 Sau khi hoàn thành Azure Cloud Week, Microsoft sẽ tiến hành gửi email cám ơn cùng voucher đến các địa chỉ email hợp lệ (email phải của đối tác, có tham gia đầy đủ các nội dung học tập,...)
 
 Tất cả các video trong Azure Cloud Week đều được ghi âm lại (record) và cho phép những người tham gia Azure Cloud Week có thể theo dõi lại tất cả các chủ đề/chứng chỉ trong 30 ngày. Sau thời gian này, các nội dung sẽ không còn truy cập được nữa. 
