@@ -17,7 +17,7 @@ Trên Portal này, chuyển đến thẻ **Session** và cấu hình một số 
 - *Track*: Chọn lựa chủ đề/chứng chỉ muốn tham gia. **Lưu ý chỉ chọn 1 chứng chỉ**. 
 - *Session Type*: Nên chọn hết tất cả lựa chọn
 
-Và ứng với từng chủ đề/chứng chỉ đã chọn, nhấn vào nút *Register* để đăng ký các phiên học tập. Để nhận được voucher thi miễn phí, người tham gia cần truy cập vào tất cả các nội dung của chủ đề/chứng chỉ đã đăng ký. **Lưu ý, một số session sẽ được chiếu lại cho các múi giờ khác nhau nên chỉ cần tham gia 1 session là đủ, chẳng hạn nội dung AZ-305: Azure Solutions Architect Expert (Day 1 of 5) sẽ có nhiều session ở các múi giờ khác nhau, do đó chỉ cần tham gia 1 session là đủ**
+Và ứng với từng chủ đề/chứng chỉ đã chọn, nhấn vào nút *Register* để đăng ký các phiên học tập. Để nhận được voucher thi miễn phí, người tham gia cần truy cập vào tất cả các nội dung của chủ đề/chứng chỉ đã đăng ký. **Lưu ý, nhiều session sẽ được chiếu lại, chẳng hạn nội dung AZ-305: Azure Solutions Architect Expert (Day 1 of 5) sẽ có nhiều session ở các múi giờ khác nhau, do đó chỉ cần tham gia 1 session là đủ**
 
 ![image](https://user-images.githubusercontent.com/102139186/167353367-c7c1cbbc-09a0-4ae1-9cc8-2b29fcdbcc7a.png)
 
