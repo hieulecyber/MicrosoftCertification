@@ -1,4 +1,4 @@
-#Cơ hội nâng cấp kiến thức đám mây cho đối tác cùng Azure Cloud Weeks#
+# Cơ hội nâng cấp kiến thức đám mây cho đối tác cùng Azure Cloud Week #
 
 Azure Cloud Weeks là chương trình học tập Microsoft dành cho các đối tác của mình nhằm cung cấp các khóa đào tạo kiến thức đám mây Azure từ cơ bản (Fundamentals) đến theo vai trò trong tổ chức (role-based). 
 Các khóa học này hoàn toàn miễn phí, diễn ra trong thời gian 4-5 ngày, mỗi ngày từ 1-2 giờ cung cấp kiến thức và kỹ năng để đối tác tự tin thi các chứng chỉ quốc tế của Microsoft và ứng dụng trực tiếp vào công việc. 
