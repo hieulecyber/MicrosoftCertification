@@ -1,4 +1,4 @@
-#Hướng dẫn sử dụng email FPT Corporation thi chứng chỉ Microsoft hoàn toàn miễn phí#
+# Hướng dẫn sử dụng email FPT Corporation thi chứng chỉ Microsoft hoàn toàn miễn phí #
 
 **Bước 1**: Dùng tài khoản cá nhân đăng ký Profile thi chứng chỉ quốc tế của Microsoft trên Pearson Vue. Chi tiết có trong phần 2 của bài viết này https://github.com/hieule1989/MicrosoftPartners
 **Bước 2**: Thêm địa chỉ email của FPT vào Profile thi để nhận ưu đãi
