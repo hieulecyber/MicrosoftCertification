@@ -33,14 +33,14 @@ Trên Microsoft Learn, các chứng chỉ của Microsoft đều có phần nộ
 
 Hiện tại, Microsoft cho phép thi miễn phí một số môn thi Fundamentals. Đây là các môn mình thích nhất vì đó là nền tảng về đám mây cho việc học tập sâu hơn sau này. Các khóa này phù hợp cho mọi đối tượng như salas, quản trị viên, kỹ sư giải pháp, devops,...Để có voucher miễn phí, chỉ cần đăng ký tham gia học 2 session cơ bản. 
 
-Truy cập trang web https://events.microsoft.com/, tìm kiếm từ khóa **Fundamentals** trong phần **Search by keyword**. Các khóa học dưới đây được cấp voucher thi miễn phí sau khi hoàn thành.
+Truy cập trang web https://events.microsoft.com/, tìm kiếm từ khóa **Fundamentals** trong phần **Search by keyword**. Riêng đối với chứng chỉ Microsoft Teams, các khóa học cung cấp voucher miễn phí có tiêu đề **Enable Hybrid Work with Microsoft Teams**. Các khóa học dưới đây được cấp voucher thi miễn phí sau khi hoàn thành.
 1. Microsoft Power Platform Virtual Training Day: Fundamentals (PL-900): https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900
 2. Microsoft Azure Virtual Training Day: Data Fundamentals (DP-900): https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900
 3. Microsoft Azure Virtual Training Day: Fundamentals (AZ-900): https://docs.microsoft.com/en-us/learn/certifications/exams/az-900
 4. Microsoft Azure Virtual Training Day: AI Fundamentals (AI-900): https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900
 5. Microsoft Security Virtual Training Day: Security, Compliance and Identity (SC-900): https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900
 6. Microsoft Dynamics 365 Virtual Training Day: Fundamentals (CRM): https://docs.microsoft.com/vi-vn/learn/certifications/exams/mb-910
-
+7. Microsoft 365 Certified: Teams Administrator Associate (https://docs.microsoft.com/en-us/certifications/exams/ms-700)
 ![FundamentalsCourse_01](https://user-images.githubusercontent.com/102139186/159437531-e75c6b9c-8fc2-434a-8eea-455c7c598971.png)
 
 
