@@ -50,7 +50,7 @@ Truy cập trang web https://events.microsoft.com/, tìm kiếm từ khóa **Fun
 
 
 
-Microsoft sẽ gửi email thông báo về thời gian của khóa học, bạn có thể thêm vào phần lịch để dễ theo dõi. Mỗi khóa học thông thường sẽ được chia thành 2 session trong 2 ngày liên tục, mỗi session tầm 2 tiếng với nội dung rất bổ ích.
+Microsoft sẽ gửi email thông báo về thời gian của khóa học, bạn có thể thêm vào phần lịch để dễ theo dõi. Tùy khóa học mà nội dung sẽ có 1 hoặc 2 session, mỗi session tầm 2 tiếng với nội dung rất bổ ích. Lưu ý cần tham gia ít nhất 80% thời lượng khóa học để nhận được voucher. 
 
 ![image](https://user-images.githubusercontent.com/102139186/159440618-327376a6-c1ff-4883-9bc8-703c163e6e7a.png)
 
