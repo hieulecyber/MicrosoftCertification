@@ -1,16 +1,14 @@
-# Cơ hội nâng cấp kiến thức đám mây Azure cho đối tác cùng Azure Cloud Week #
+# Cơ hội nâng cấp kiến thức đám mây Microsoft cho đối tác cùng Microsoft Partner Cloud Week #
 
-Azure Cloud Week là chương trình tuần lễ học tập đám mây Microsoft dành cho các đối tác của hãng, cung cấp các khóa đào tạo kiến thức đám mây Azure từ cơ bản (Fundamentals) đến các nội dung nâng cao hơn theo vai trò trong tổ chức (role-based). 
+Partner Cloud Week là tuần lễ học tập đám mây Microsoft dành cho các đối tác, cung cấp các khóa đào tạo kiến thức đám mây từ cơ bản (Fundamentals) đến các nội dung nâng cao hơn theo vai trò trong tổ chức (role-based). 
 
 Các khóa học này hoàn toàn miễn phí cho đối tác, diễn ra trong khoảng thời gian 4-5 ngày, mỗi ngày từ 1-2 giờ cung cấp kiến thức và kỹ năng để đối tác tự tin thi các chứng chỉ quốc tế của Microsoft và ứng dụng trực tiếp vào công việc. 
 
-Sau khi hoàn tất khóa học, mỗi người tham gia sẽ nhận được **1 voucher miễn phí từ Microsoft để thi bất kỳ chứng chỉ Azure bất kỳ**
 
-Trong tháng 5/2022, Microsoft tổ chức 2 Cloud Week cho đối tác gồm: 
-1. Azure Cloud Week (09-13/5/2022). Đăng ký tại đây https://register.govirtualconference.com/?conference=e690c860-da3d-484c-a687-65b9af8ad4fd
-2. Security Cloud Week (16-20/5/2022). Đăng ký tại đây https://register.govirtualconference.com/?conference=94c237fd-6fba-42d6-b466-e370a7b03f67
+Trong tháng 9/2022, Microsoft tổ chức Business Apps Cloud Week: 
+Đăng ký tại đây https://vshow.on24.com/vshow/BA_Cloud_Week/registration/21608?partnerref=CW_BA_ORG_PEM_FDE
 
-Sau khi đăng ký hoàn tất, đến thời điểm bắt đầu Azure Cloud Week, đăng nhập vào trang web https://partnerevents.govirtualconference.com/conference/conference để truy cập Portal học tập. 
+Sau khi đăng ký hoàn tất, đến thời điểm bắt đầu Partner Cloud Week, đăng nhập vào trang web https://partnerevents.govirtualconference.com/conference/conference để truy cập Portal học tập. 
 
 Trên Portal này, chuyển đến thẻ **Session** và cấu hình một số thông tin để dễ dàng theo dõi hơn:
 - *Timezone*: nên chọn UTC+8: Beijing, Chongquing, Hongkong, Urumqui. Múi giờ này trước Việt Nam 1 tiếng đồng hồ.
@@ -26,6 +24,4 @@ Tất cả các nội dung đã đăng ký học sẽ hiển thị trên giao di
 ![image](https://user-images.githubusercontent.com/102139186/167355660-6d5644a1-de3a-4294-8480-20e641c681d6.png)
 
 
-Sau khi hoàn thành Azure Cloud Week, Microsoft sẽ tiến hành gửi email cám ơn cùng voucher đến các địa chỉ email hợp lệ (email phải của đối tác, có tham gia đầy đủ các nội dung học tập,...) trước ngày **27/5/2022**. 
-
-Tất cả các video trong Azure Cloud Week đều được ghi âm lại (record) và cho phép những người tham gia Azure Cloud Week có thể theo dõi lại tất cả các chủ đề/chứng chỉ trong 30 ngày. Sau thời gian này, các nội dung sẽ không còn truy cập được nữa. 
+Tất cả các video trong Partner Cloud Week đều được ghi âm lại (record) và cho phép những người tham gia Partner Cloud Week có thể theo dõi lại tất cả các chủ đề/chứng chỉ trong 30 ngày. Sau thời gian này, các nội dung sẽ không còn truy cập được nữa. 
