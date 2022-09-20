@@ -101,7 +101,7 @@ Truy cập trang quản lý chứng chỉ của Microsoft ở địa chỉ https
 
 ![image](https://user-images.githubusercontent.com/102139186/191144190-b2caab1e-1239-4f33-b3f8-6492c4b13459.png)
 
-Chọn _View details on Proficer site_ > _View Score Reports_ > View kế bên môn thi muốn xem kết quả thi. 
+Chọn _View details on Provider site_ > _View Score Reports_ > _View_ kế bên môn thi muốn xem kết quả thi. 
 
 ![image](https://user-images.githubusercontent.com/102139186/191144613-9a0e3a87-104a-4e3a-8095-4914f6702e47.png)
 
@@ -110,6 +110,5 @@ Chọn _View details on Proficer site_ > _View Score Reports_ > View kế bên m
 ![image](https://user-images.githubusercontent.com/102139186/191144596-64c62b6f-1e68-47a1-9859-b2d271e40a6d.png)
 
 
-![image](https://user-images.githubusercontent.com/102139186/191144247-34f5dc0f-a28a-4f8b-a9a1-88bfff5e6362.png)
 
 
