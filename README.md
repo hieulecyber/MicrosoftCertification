@@ -83,7 +83,17 @@ Chọn Next, ngôn ngữ dự thi (select exam language), đồng ý các điề
 
 ![image](https://user-images.githubusercontent.com/102139186/163979874-03bffc37-ad3c-45fc-8cd6-a63d9ff9f7e4.png)
 
+**5. Kiểm tra kết quả thi và chứng chỉ**
 
+Truy cập trang quản lý chứng chỉ của Microsoft ở địa chỉ https://www.microsoft.com/en-us/learning/dashboard.aspx. Tại đây các chứng chỉ sẽ nằm ở phần **Certification**, được sắp xếp theo thứ tự ngày tháng. 
+
+![image](https://user-images.githubusercontent.com/102139186/191142933-6ff182d8-e1c6-49da-b659-12d420f51eb1.png)
+
+chọn _View All_ để hiển thị tất cả danh sách các chứng chỉ. 
+
+![image](https://user-images.githubusercontent.com/102139186/191143050-6c2fcbf0-a74a-4776-b743-be6f41f081fc.png)
+
+Chọn _View Certification Details_ > _Print Certificate_ để xem và tải về chứng chỉ dưới định dạng PDF
 
 
 
