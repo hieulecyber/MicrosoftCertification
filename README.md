@@ -63,7 +63,8 @@ Sau khi hoàn thành khóa học từ 1-2 ngày, Microsoft sẽ gửi email cám
 
 ![image](https://user-images.githubusercontent.com/102139186/160320926-b3c1fd0e-a56f-43f3-a370-924670c2168e.png)
 
-**Sử dụng voucher miễn phí đăng ký dự thi miễn phí**
+**4.Sử dụng voucher miễn phí đăng ký dự thi miễn phí**
+
 Truy cập vào trang chính thức của môn thi ở mục 3 phía trên, chọn quốc gia Việt Nam và chọn Schedule with Pearson VUE. Đăng nhập bằng tài khoản Microsoft sẽ dùng để dự thi. Trong giao diện hiện ra chuyển qua thẻ Exam Discounts, nhấn vào mục 100% Microsoft Training day attendance, chọn Claim > Schedule Exam
 
 ![image](https://user-images.githubusercontent.com/102139186/163976847-877a6e61-eb6a-4b43-9538-6fc306ff2e2d.png)
