@@ -83,9 +83,9 @@ Chọn Next, ngôn ngữ dự thi (select exam language), đồng ý các điề
 
 ![image](https://user-images.githubusercontent.com/102139186/163979874-03bffc37-ad3c-45fc-8cd6-a63d9ff9f7e4.png)
 
-**5. Kiểm tra kết quả thi và chứng chỉ**
+**5. Xem và tải về chứng chỉ**
 
-Truy cập trang quản lý chứng chỉ của Microsoft ở địa chỉ https://www.microsoft.com/en-us/learning/dashboard.aspx. Tại đây các chứng chỉ sẽ nằm ở phần **Certification**, được sắp xếp theo thứ tự ngày tháng. 
+Truy cập trang quản lý chứng chỉ của Microsoft ở địa chỉ https://www.microsoft.com/en-us/learning/dashboard.aspx, đăng nhập bằng tài khoản Microsoft dự thi. Tại đây các chứng chỉ sẽ nằm ở phần **Certification**, được sắp xếp theo thứ tự ngày tháng. 
 
 ![image](https://user-images.githubusercontent.com/102139186/191142933-6ff182d8-e1c6-49da-b659-12d420f51eb1.png)
 
@@ -95,5 +95,21 @@ chọn _View All_ để hiển thị tất cả danh sách các chứng chỉ.
 
 Chọn _View Certification Details_ > _Print Certificate_ để xem và tải về chứng chỉ dưới định dạng PDF
 
+**6. Xem và tải bảng điểm thi**
+
+Truy cập trang quản lý chứng chỉ của Microsoft ở địa chỉ https://www.microsoft.com/en-us/learning/dashboard.aspx, chọn Past Exams > View All để xem danh sách tất cả các môn đã dự thi.
+
+![image](https://user-images.githubusercontent.com/102139186/191144190-b2caab1e-1239-4f33-b3f8-6492c4b13459.png)
+
+Chọn _View details on Proficer site_ > _View Score Reports_ > View kế bên môn thi muốn xem kết quả thi. 
+
+![image](https://user-images.githubusercontent.com/102139186/191144613-9a0e3a87-104a-4e3a-8095-4914f6702e47.png)
+
+
+
+![image](https://user-images.githubusercontent.com/102139186/191144596-64c62b6f-1e68-47a1-9859-b2d271e40a6d.png)
+
+
+![image](https://user-images.githubusercontent.com/102139186/191144247-34f5dc0f-a28a-4f8b-a9a1-88bfff5e6362.png)
 
 
