@@ -2,7 +2,7 @@
 
 **1. Tạo tài khoản trên Microsoft Learn để học các nội dung miễn phí**
 
-Truy cập https://docs.microsoft.com/en-us/learn/, đăng nhập bằng tài khoản email Microsoft (hotmail.com, outlook.com) hoặc tạo mới tài khoản nếu chưa có. Lưu ý tài khoản email này sẽ được dùng để thi các chứng chỉ của Microsoft. 
+Truy cập https://learn.microsoft.com/en-us/, đăng nhập bằng tài khoản email Microsoft (hotmail.com, outlook.com) hoặc tạo mới tài khoản nếu chưa có. Lưu ý tài khoản email này sẽ được dùng để thi các chứng chỉ của Microsoft. 
 
 Tiếp đến cập nhật một số thông tin như tên hiển thị (Display Name), quốc gia (Country), vị trí nghề nghiệp (Role), trình độ của bản thân (Select your level), sản phẩm Microsoft bạn thích (Select products you're interested in),...
 
