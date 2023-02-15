@@ -6,7 +6,7 @@ Truy cập https://learn.microsoft.com/en-us/, đăng nhập bằng tài khoản
 
 Tiếp đến cập nhật một số thông tin như tên hiển thị (Display Name), quốc gia (Country), vị trí nghề nghiệp (Role), trình độ của bản thân (Select your level), sản phẩm Microsoft bạn thích (Select products you're interested in),...
 
-Trên Microsoft Learn, các chứng chỉ của Microsoft đều có phần nội dung miễn phí để học tập, thực hành lab (tùy khóa học) giúp chuẩn bị kiến thức cho kỳ thi quốc tế. Hình minh họa cho chứng chỉ SC-900: Microsoft Security, Compliance, and Identity Fundamentals
+Trên Microsoft Learn, các chứng chỉ của Microsoft đều có phần nội dung miễn phí để học tập, thực hành lab (tùy khóa học) giúp chuẩn bị kiến thức cho kỳ thi quốc tế. Hình minh họa cho chứng chỉ **SC-900: Microsoft Security, Compliance, and Identity Fundamentals**
 
 ![image](https://user-images.githubusercontent.com/102139186/160832058-9492dc02-39d1-4214-9cf2-bc1611f25533.png)
 
@@ -17,7 +17,7 @@ Trên Microsoft Learn, các chứng chỉ của Microsoft đều có phần nộ
 
 Ở Việt Nam, để thi các chứng chỉ quốc tế, người dự thi có thể thi tại nhà (online) hoặc đến các trung tâm ủy quyền của Microsoft như Pearson Vue, Certiport. Người dự thi cần đăng ký một profile thi cho các chứng chỉ của Microsoft (minh họa trên Person Vue). Profile này sẽ được sử dụng chung cho việc thi tất cả các chứng chỉ khác của Microsoft sau này. 
 
-Để tạo profile thi, trên giao diện Microsoft Learn, chọn Certification > Overview > Go to Certification Dashboard > Edit your certification profile và cập nhật thông tin cá nhân. Bên dưới là một số gợi ý minh họa
+Để tạo profile thi, trên giao diện Microsoft Learn, chọn **Certification** > **Overview** > **Go to Certification Dashboard** > E**dit your certification profil**e và cập nhật thông tin cá nhân. Bên dưới là một số gợi ý minh họa
 
 ![image](https://user-images.githubusercontent.com/102139186/160832614-78b58ac8-8c3a-4655-9e32-f4eaacd46561.png)
 
