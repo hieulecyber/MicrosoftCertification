@@ -19,31 +19,36 @@ Trên Microsoft Learn, các chứng chỉ của Microsoft đều có phần nộ
 
 Để tạo profile thi, truy cập vào trang web https://examregistration.microsoft.com/, đăng nhập bằng email đã tạo ở bước 1 và cập nhật thông tin cá nhân vào phần _Certification Profile_, đánh dấu chọn vào ô _I have read and agree the Terms of Use and Privacy & Cookies statement_ rồi nhấn _Submit_. 
 
-![image](https://user-images.githubusercontent.com/102139186/218942786-72de0161-e8c5-4e46-ac3f-237a6de2f8e6.png)
+![image](https://user-images.githubusercontent.com/102139186/218943433-4ce4d760-924a-4b5a-9efd-e8ad20aeb43b.png)
 
+
+Kiểm tra tên sẽ hiển thị trên chứng chỉ ở thông báo xuất hiện và nhấn _Accept_. 
+
+![image](https://user-images.githubusercontent.com/102139186/218943229-b4cd99b8-51cd-4093-b86f-c10a5e9c6914.png)
 
 
 Để thi chứng chỉ quốc tế, người dự thi có thể chọn ngày thi tự do, đăng ký thi tại nhà hoặc đến các trung tâm ủy quyền của Microsoft. Phần này sẽ nói kỹ hơn khi nhận được voucher thi.
 
-*Lưu ý khi đến trung tâm dự thi cần mang theo CMND hoặc hộ chiếu. Khi thi tại nhà cần thực hiện quá trình check-in trước khi thi khoảng 30 phút và chụp ảnh giấy tờ, 4 góc phòng dự thi.*
+*Lưu ý khi đến trung tâm dự thi cần mang theo CMND hoặc hộ chiếu. Khi thi tại nhà cần thực hiện quá trình check-in trước khi thi khoảng tối thiểu 30 phút và chụp ảnh giấy tờ, 4 góc phòng dự thi.*
 
 
 **3. Nhận voucher miễn phí thi các chứng nhận của Microsoft**
 
-Hiện tại, Microsoft cho phép thi miễn phí một số môn thi Fundamentals. Đây là các môn mình thích nhất vì đó là nền tảng về đám mây cho việc học tập sâu hơn sau này. Các khóa này phù hợp cho mọi đối tượng như salas, quản trị viên, kỹ sư giải pháp, devops,...Để có voucher miễn phí, chỉ cần đăng ký tham gia học 2 session cơ bản. 
+Hiện tại, Microsoft cho phép thi miễn phí một số môn thi Fundamentals - những môn nền tảng về đám mây cho việc học tập sâu hơn sau này. Các khóa này phù hợp cho mọi đối tượng như salas, quản trị viên, kỹ sư giải pháp, devops,...Để có voucher miễn phí, chỉ cần đăng ký tham gia học các session đã đăng ký. 
 
 Truy cập trang web https://events.microsoft.com/, tìm kiếm từ khóa **Fundamentals** trong phần **Search by keyword**. Riêng đối với chứng chỉ Microsoft Teams, các khóa học cung cấp voucher miễn phí có tiêu đề **Enable Hybrid Work with Microsoft Teams**. Các khóa học dưới đây được cấp voucher thi miễn phí sau khi hoàn thành.
-1. Microsoft Power Platform Virtual Training Day: Fundamentals (PL-900): https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900
-2. Microsoft Azure Virtual Training Day: Data Fundamentals (DP-900): https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900
-3. Microsoft Azure Virtual Training Day: Fundamentals (AZ-900): https://docs.microsoft.com/en-us/learn/certifications/exams/az-900
-4. Microsoft Azure Virtual Training Day: AI Fundamentals (AI-900): https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900
-5. Microsoft Security Virtual Training Day: Security, Compliance and Identity (SC-900): https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900
-6. Microsoft Dynamics 365 Virtual Training Day: Fundamentals (CRM): https://docs.microsoft.com/vi-vn/learn/certifications/exams/mb-910
-7. Microsoft 365 Certified: Teams Administrator Associate (https://docs.microsoft.com/en-us/certifications/exams/ms-700)
+1. Microsoft Power Platform Virtual Training Day: Fundamentals (PL-900)
+2. Microsoft Azure Virtual Training Day: Data Fundamentals (DP-900)
+3. Microsoft Azure Virtual Training Day: Fundamentals (AZ-900)
+4. Microsoft Azure Virtual Training Day: AI Fundamentals (AI-900)
+5. Microsoft Security Virtual Training Day: Security, Compliance and Identity (SC-900)
+6. Microsoft Dynamics 365 Virtual Training Day: Fundamentals (CRM)
+7. Microsoft 365 Certified: Teams Administrator Associate 
+
 ![FundamentalsCourse_01](https://user-images.githubusercontent.com/102139186/159437531-e75c6b9c-8fc2-434a-8eea-455c7c598971.png)
 
 
-Điền một số thông tin cơ bản để đăng ký khóa học. **Email này chính là email đã tạo tài khoản trên Pearson Vue trước đó.** 
+Điền một số thông tin cơ bản để đăng ký khóa học. **Email này chính là email đã tạo tài khoản Learn/Pearson Vue phía trên.** 
 
 ![FundamentalsCourse_02](https://user-images.githubusercontent.com/102139186/159438492-69d070b1-d90b-425f-86a3-4aecce2da5fe.png)
 
