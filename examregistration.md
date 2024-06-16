@@ -1,7 +1,10 @@
 **Hướng dẫn đăng ký dự thi chứng chỉ quốc tế**
+
 Hiện tại, thi chứng chỉ quốc tế về công nghệ thông tin nói chung, và chứng chỉ Microsoft nói riêng đã trở nên đơn giản hơn rất nhiều khi người dự thi không cần phải đến các trung tâm thi ủy quyền của Microsoft nữa mà hoàn toàn có thể chủ động thi tại nhà. 
 Master Learning Hub sẽ hướng dẫn bạn quy trình đăng ký tài khoản Microsoft Learn để học tập miễn phí; tạo profile và đăng ký thi trên Pearson Vue; chuẩn bị cho ngày thi cũng như xem kết quả thi và chia sẻ chứng chỉ của mình. 
-01. Đăng ký tài khoản Microsoft Learn
+
+**01. Đăng ký tài khoản Microsoft Learn**
+
 Microsoft Learn là cổng thông tin học tập trực tuyến cũng như là nơi quản lý tất cả các chứng chỉ bạn đã đạt được. 
 Truy cập trang web https://learn.microsoft.com/, nhấn Sign in để đăng nhập bằng tài khoản Microsoft (có đuôi @hotmail.com, @outlook.com). Nếu chưa có bạn có thể tạo một tài khoản hoàn toàn miễn phí. 
  
@@ -14,7 +17,9 @@ Chọn Country là Vietnam, đánh dấu vào ô I would like … và chọn Sav
 Tiếp theo bạn vào trang quản lý tài khoản https://learn.microsoft.com/en-us/users/me/settings, điều chỉnh lại đường dẫn đến profile cá nhân (vì Microsoft sẽ đặt tên ngẫu nhiên cho phần này), cập nhật hình ảnh đại diện ở phần Change picture và nhấn Save để lưu lại. 
  
 Sau khi đăng ký hoàn tất, bạn có thể bắt đầu học tập trên Microsoft Learn. Tất cả các nội dung trên Microsoft Learn đều hoàn toàn miễn phí ở dạng Learning Path (lộ trình học tập), video, interactive guide (hướng dẫn tương tác) để đa dạng hóa trải nghiệm học tập. 
-02. Đăng ký tài khoản thi trên Pearson Vue
+
+**02. Đăng ký tài khoản thi trên Pearson Vue**
+
 Để có thể dự thi chứng chỉ quốc tế, bạn cần một tài khoản dự thi trên hệ thống trung tâm khảo thí Pearson Vue.
 Đầu tiên bạn chọn một môn thi bất kỳ của Microsoft, ví dụ minh họa với chứng chỉ Microsoft Certified: Fabric Analytics Engineer Associate (mã môn thi DP-600) ở đường dẫn https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate. 
 Cuộn xuống cuối trang chọn Schedule Exam ở phần Schedule through Pearson Vue. 
@@ -81,7 +86,9 @@ Bạn quay trở lại giao diện Microsoft Learn ở đường dẫn https://l
 Chọn Connect certification profile để kết nối tài khoản Microsoft Learn và profile dự thi trên Pearson Vue > Yes, connect this certification profile. 
 Ngay lập tức bạn sẽ thấy môn thi đã đăng ký xuất hiện. Tại đây bạn có thể hủy (Cancel) hoặc dời sang ngày khác (Reschedule). 
 Lưu ý quan trọng là bạn phải Cancel hoặc Reschedule môn thi trước ít nhất 24 tiếng, nếu không bạn buộc phải tham dự thi đúng ngày. Trong tình huống đến ngày thi bạn không dự thi, bạn sẽ bị đưa vào danh sách đen của Microsoft và trong lần đăng ký môn thi tiếp theo, bạn buộc phải đóng phí giữ chỗ 50 USD dù có sử dụng voucher giảm giá 100% đi nữa. Nếu bạn không đến dự thi, bạn sẽ mất 50 USD này. Nếu bạn dự thi, bạn sẽ được hoàn trả lại số tiền này trong khoảng thời gian từ 2 tuần – 1 tháng. 
-Chuẩn bị trước ngày thi
+
+**03. Chuẩn bị trước ngày thi**
+
 Nếu chọn thi tại trung tâm, bạn chỉ cần đến trung tâm dự thi trước 15-30 phút để check-in và mang theo giấy tờ tùy thân như CCCD, Hộ chiếu,…Phần còn lại trung tâm sẽ hướng dẫn và thực hiện các thủ tục giúp bạn. Đối với các bạn lần đầu thi chứng chỉ và hiện đang sinh sống và làm việc ở các thành phố lớn như HCM, Hà Nội, Đà Nẵng có trung tâm khảo thí Pearson Vue thì nên sử dụng lựa chọn này. 
 Nếu chọn dự thi ở nhà, bạn sẽ cần nhiều bước để chuẩn bị hơn. Một số lưu ý quan trọng: 
 - Sử dụng máy cá nhân, không sử dụng máy công ty vì có thể gặp tình huống không cài đặt được ứng dụng OnVue, bị tường lửa chặn,…
@@ -108,7 +115,8 @@ Sau đó Pearson Vue sẽ tải về một bài dự thi mẫu gồm vài câu h
 Lưu ý bạn cần tắt hết các ứng dụng đang mở để mở bài thi. 
 Sau khi hoàn thành xong bài thi mẫu (chỉ có 1 câu hỏi) bạn chọn End Exam > Close ở thông báo Congratulations để kết thúc và yên tâm chờ đến ngày thi. 
  
-Trong ngày thi
+**04. Trong ngày thi**
+
 Đến trước giờ thi 30 phút, hệ thống Microsoft sẽ mở tính năng check-in cho thí sinh dự thi chứng chỉ. Bạn có thể truy cập trực tiếp từ Microsoft Learn, phần Credentials > Certifications. Ở môn thi trực tuyến chọn Go to the Exam.  
   
 Chọn môn thi trong phần View or launch an online exam
@@ -146,7 +154,8 @@ Chọn Test để kiểm tra và tắt các ứng dụng đang mở > Next.
 Ở giao diện Video streaming check bạn đánh dấu chọn vào ô Yes ở câu hỏi Can you see yourself in the video stream > Next. 
 Về cơ bản, quá trình check in đã hoàn tất. Bạn chờ đợi giám thị của Pearson Vue liên hệ để kiểm tra thông tin lần cuối và bắt đầu làm bài thi. 
 
-Xem kết quả thi và chia sẻ chứng chỉ
+**05. Xem kết quả thi và chia sẻ chứng chỉ**
+
 Trên giao diện Microsoft Learn, vào phần Credentials > Certifications > Past Exams. Bạn nhấn vào môn thi tương ứng chọn View details on provider site. Hệ thống sẽ tự động chuyển sang giao diện của Pearson Vue. 
  
 
@@ -162,7 +171,8 @@ Cụ thể, bạn vào phần Certification để xem danh sách tất cả các
 
 Chọn nút Share để chia sẻ chứng chỉ của mình dưới dạng một đường link URL hoặc qua Facebook, X, Linkedin,… 
  
-Renew chứng chỉ
+**06. Renew chứng chỉ**
+
 Các chứng chỉ của Microsoft hiện có thời hạn một năm và trước khi hết hạn 6 tháng, Microsoft sẽ thông báo qua email đồng thời sẽ mở tính năng Renew trên Microsoft Learn để bạn có thể gia hạn. Gia hạn chứng chỉ hoàn toàn miễn phí và bạn có thể làm số lần vô hạn đến khi vượt qua được bài đánh giá. Nếu FAIL bạn sẽ cần đợi 24 tiếng để có thể thực hiện tiếp. 
 Trên Microsoft Learn, bạn vào phần Credentials > Certifications, chọn Renew, đánh dấu chọn vào ô By checking the box, you are confirming that you have read and agree to the Certification Renewal Candidate Agreement and the Credentials Program Agreement. Chọn Take the renewal assessment để thực hiện bài thi gia hạn. 
  
